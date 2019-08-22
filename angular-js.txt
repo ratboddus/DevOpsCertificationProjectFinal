@@ -1,0 +1,37 @@
+Angular JS
+1. DOM
+2. DOM parser
+3. SPA ( single page application)
+4. JAVASCRIPT
+5. RWD(responsive web design)
+6. AJAX
+7. MDA(multi devices applications)
+8. Typescript
+
+Prereq:
+1. Typescript
+2. Node
+
+########
+
+No block level scope in JS - var
+Block level scope in JS - let,const
+
+########
+Binding in AngularJS:
+1.Interpolation - {{}}
+2.attribute
+3.event
+4.model
+
+###
+
+
+How it works- Data binding in AngularJS
+##
+
+Directives- 3 types
+1. Structural 
+2. Attribute
+3. Component
+
